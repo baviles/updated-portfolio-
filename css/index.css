@@ -1,36 +1,40 @@
-   /* ===== MAIN.CSS goes here ===== */
+/* * ===== MAIN.CSS goes here ===== */ */
 
-   body{
+body{
     background-color: black;
     color: rgba(255,255,255,0.8);
-  }
-  
-  #landing{
+}
+
+#landing{
     height: 100vh;
-    background-image: url('./Images/black-wall-texture-background-banner-blank-dark-gradient-studio-room-chalkboard_28629-594.jpg');
+    background-image: url('../images/Snapchat-1901850640.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     z-index: -1;
-  }
-  
-  #mainText{
+}
+
+#mainText{
     margin-top: 30vh;
-  }
-  
-  #intro{
+}
+
+#intro{
     margin-top: 50px;
-  }
-  
-  #work{
+}
+
+#work{
     background-color: rgb(61,61,61);
-  }
-  
-  #p1{
+}
+
+#p1{
     height: 350px;
-  }
-  
-  h1,h4 {
-    color: whitesmoke
-  }
+}
+
+.center {
+    color: aliceblue
+}
+
+p {
+    color: aliceblue
+}
